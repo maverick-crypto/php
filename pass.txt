@@ -1093,7 +1093,7 @@ function files_and_folder() {
 	}
 
 	print "</table>";
-	print "<br><center>Copyright &copy; ".date("Y")." - <a href='https://google.com/' target='_blank'>".color(1, 2, "Unknown45")."</a></center>";
+	print "<br><center>Copyright &copy; ".date("Y")." - <a href='https://google.com/' target='_blank'>".color(1, 2, "maverickxjames")."</a></center>";
 }
 
 
